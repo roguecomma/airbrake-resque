@@ -1,9 +1,10 @@
-= airbrake-resque
+airbrake-resque
+===============
 
 Enqueues Airbrake notifications for asynchronous delivery using Resque.
 
-== Note on Patches/Pull Requests
- 
+Note on Patches/Pull Requests
+----------------------------- 
 * Fork the project.
 * Make your feature addition or bug fix.
 * Add tests for it. This is important so I don't break it in a
