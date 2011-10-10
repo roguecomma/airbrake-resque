@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.homepage          = "http://github.com/Viximo/airbrake-resque"
   s.email             = "matt@griffinonline.org"
   s.authors           = [ "Matt Griffin" ]
+  s.license           = "MIT"
   s.has_rdoc          = false
 
   s.files             = %w( README.md LICENSE )
