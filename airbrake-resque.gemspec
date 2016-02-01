@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version           = AirbrakeResque::Version::STRING
   s.date              = Time.now.strftime('%Y-%m-%d')
   s.summary           = "Enqueues Airbrake notifications in Resque"
-  s.homepage          = "http://github.com/Viximo/airbrake-resque"
+  s.homepage          = "http://github.com/roguecomma/airbrake-resque"
   s.email             = "matt@griffinonline.org"
   s.authors           = [ "Matt Griffin" ]
   s.license           = "MIT"
